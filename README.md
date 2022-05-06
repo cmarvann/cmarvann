@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmarvann
+- 👋 Hi, I’m marvann
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on projects
